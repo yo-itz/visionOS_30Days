@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:my_vision_30days"
+      name = "my_vision_30days">
+      <Group
+         location = "group:Assets.xcassets"
+         name = "Assets.xcassets">
+         <Group
+            location = "group:AppIcon.solidimagestack"
+            name = "AppIcon.solidimagestack">
+            <Group
+               location = "group:Front.solidimagestacklayer"
+               name = "Front.solidimagestacklayer">
+               <Group
+                  location = "group:Content.imageset"
+                  name = "Content.imageset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Back.solidimagestacklayer"
+               name = "Back.solidimagestacklayer">
+               <Group
+                  location = "group:Content.imageset"
+                  name = "Content.imageset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Middle.solidimagestacklayer"
+               name = "Middle.solidimagestacklayer">
+               <Group
+                  location = "group:Content.imageset"
+                  name = "Content.imageset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Preview Content"
+         name = "Preview Content">
+         <Group
+            location = "group:Preview Assets.xcassets"
+            name = "Preview Assets.xcassets">
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:Day1App.swift">
+      </FileRef>
+      <FileRef
+         location = "group:ContentView.swift">
+      </FileRef>
+   </Group>
+</Workspace>
